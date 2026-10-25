@@ -160,6 +160,14 @@ are not bundled in this repository.
 - Separate stage medians cannot be added to obtain a median
   end-to-end duration.
 
+  ## Dashboard Preview
+
+### Process Overview
+![Process Overview](process_overview.png)
+
+### Vendor Investigation
+![Vendor Investigation](vendor_investigation.png)
+
 ## Author
 
 **Naman Deep Singh**
